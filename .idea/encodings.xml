@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AiTFrameHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AiTGUIStarter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AiTHauptklasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AiTJFrame.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AuswertungenAnzeige.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/AuswertungsKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/BewertungenAnzeige.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/BewertungensKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/EntladezeitAnzeige.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/EntladezeitKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/PünktlichkeitAnzeige.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/AiT/Arrive_in_Time/PünktlichkeitsKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Rueckmeldung_Schalter/DatenpflegeKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Rueckmeldung_Schalter/RSFrameHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Rueckmeldung_Schalter/RSGUIStarter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Rueckmeldung_Schalter/RSJFrame.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Rueckmeldung_Schalter/RefreshKlasse.java" charset="windows-1252" />
+  </component>
+</project>
